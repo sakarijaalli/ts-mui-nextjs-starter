@@ -44,7 +44,7 @@ stackbit dev
 
 This outputs your own Netlify visual editor URL. Open this, register, or sign in, and you will be directed to the Netlify visual editor for your new project.
 
-![Next.js Dev + Netlify Create Dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
+![Next.js Dev + Netlify Create Dev]
 
 ## Next Steps
 
